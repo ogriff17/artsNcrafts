@@ -3,10 +3,21 @@
   }
 
 body {
-  background-color:lightblue;
+  background-color:lightyellow;
   font-family:Luminari, fantasy;
+ 
 }
   
 h1{
   text-align:center;
+  color:purple;
+  background-image: url(/images/pattern.jpeg);
+}
+
+h2{
+  color:purple;
+}
+
+h3{
+  color:blue;
 }
